@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Field Gothic No. 75';
+    src: url('../fonts/FieldGothic-No75BoldWide.woff2') format('woff2'),
+        url('../fonts/FieldGothic-No75BoldWide.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
